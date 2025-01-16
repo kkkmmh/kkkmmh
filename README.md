@@ -1,16 +1,53 @@
-## Hi there 👋
+# 프로필
+## 개인정보
 
-<!--
-**kkkmmh/kkkmmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **이름**
+    - 김민혁
+- **생년월일**
+    - 1998.11.02
+- **나이**
+    - 28 (만 26세)
+- **혈액형**
+    - B형
+- **MBTI**
+    - ISTJ
+----
+## 학력
 
-Here are some ideas to get you started:
+- **초등학교**
+    - 2005 ~ 2010 봉산초등학교
+- **중학교**
+    - 2011 ~ 2013 봉산중학교
+- **고등학교**
+    - 2014 ~ 2016 장덕고등교
+- **대학교**
+    - 2017 ~ 2023 조선대학교 컴퓨터통계학과
+----
+## 가본 여행지
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **국내**
+    - 서울
+    - 인천
+    - 포항
+    - 제주
+    - 전주
+    - 경주
+    - 부산
+    - 기타 등등,,,
+
+- **해외**
+    - 아시아
+        - 일본
+            1. 오사카
+                ![이미지](/sub3/오사카.jpg)
+            2. 도쿄
+                ![이미지](/sub3/도쿄.jpg)
+            3. 삿포로
+                ![이미지](/sub3/삿포로.jpg)
+
+    - 유럽
+    - 북미 & 남미
+    - 오세아니아
+
+----
+## 추후 추가 예정...
